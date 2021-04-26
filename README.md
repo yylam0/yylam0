@@ -9,7 +9,7 @@ I'm a year two student studying Computer Science. Nice to meet you all.
 
 🥊 I'm currently enjoying Thai boxing.
 
-⚡ Fun fact: I can eat more than guys 🍔🥟🍗🌽🍨
+⚡ Fun fact: I can eat more than men 🍔🥟🍗🌽🍨
 <!--
 **yylam0/yylam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
